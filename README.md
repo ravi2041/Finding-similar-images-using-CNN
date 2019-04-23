@@ -5,3 +5,7 @@ I have developed a deep learning model using MASK-RCNN and pretrain CNN model (I
 
 ![Bactrocera_tryoni_0 jpeg jpg - Copy jpg_same_order_results](https://user-images.githubusercontent.com/21376508/56622762-f5de9c80-664e-11e9-8f02-bb0e55c3484c.jpg)
 ![Bactrocera_tryoni_0 jpeg jpg - Copy jpg_normal_results](https://user-images.githubusercontent.com/21376508/56622764-f6773300-664e-11e9-8df5-ef318621d248.jpg)
+
+
+![Eudocima_phalonia jpg - Copy jpg_same_order_results](https://user-images.githubusercontent.com/21376508/56622858-5241bc00-664f-11e9-8507-a9a9b35fbd28.jpg)
+![Eudocima_phalonia jpg - Copy jpg_normal_results](https://user-images.githubusercontent.com/21376508/56622859-52da5280-664f-11e9-8df2-1377a1a425c1.jpg)
